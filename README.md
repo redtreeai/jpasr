@@ -1,14 +1,7 @@
 # jpasr
 Web application for japanese speech recognition(日语语音识别web版本)
 
-测试地址为(web app addr):
-
-https://jpasr.chenhongshu.com 
-
-接口地址为(api addr):
-
-https://jpasrapi.chenhongshu.com/
-
+因为服务器资费昂贵，目前已关闭接口服务，需要的可以留言，可以教你部署。
 
 提示：
 
